@@ -1,5 +1,4 @@
 # html-login-page
-# Login Page
 
 This is a simple login page implemented using HTML and CSS. The page is designed using the Bootstrap framework and custom CSS styles. The purpose of this project is to demonstrate a basic login form layout and styling.
 
