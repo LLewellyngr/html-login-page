@@ -18,7 +18,7 @@ This is a simple login page implemented using HTML and CSS. The page is designed
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo](https://github.com/LLewellyngr/html-login-page.git`
+1. Clone the repository: `git clone https://github.co/LLewellyngr/html-login-page.git`
 2. Open the `index.html` file in your web browser.
 
 ## Features
