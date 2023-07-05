@@ -1,0 +1,15 @@
+.hero{
+    height: 100lvh;
+}
+
+section {
+    padding:0 ;
+    margin: 0;
+}
+
+
+a:hover{
+     background-color: khaki;
+
+}
+
