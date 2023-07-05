@@ -37,4 +37,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize and expand this README according to your needs. Make sure to include any additional information or instructions that would be helpful for someone using or contributing to your project. Good luck with your teaching endeavors on GitHub!
+
